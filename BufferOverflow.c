@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/// The size is 10 i.e we can access the elem
+/// The size is 10 i.e we can access the elements with index 0-9.
 struct User 
 { 
   int userId[10];
